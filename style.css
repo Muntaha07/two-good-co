@@ -1132,7 +1132,7 @@ body {
     
     #page7 #lastfooter #tagf{
         display: flex;
-        gap: 0vw;
+        gap: 3vw;
         font-weight: 500;
         opacity: .6;
         position: relative;
