@@ -1137,7 +1137,7 @@ body {
         opacity: .6;
         position: relative;
         top: 144vw;
-        left: 2vw;
+        right: 25vw;
     }
     
     #page7 #lastpara{
@@ -1149,7 +1149,8 @@ body {
         bottom: 30vw;
     padding-left: 4vw;
     width: 100%;
-    padding-right: 8vw
+    padding-right: 8vw;
+    left: 2vw;
     
     }
     
